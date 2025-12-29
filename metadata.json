@@ -1,0 +1,5 @@
+{
+  "name": "Crystal Colorizer AI",
+  "description": "Intelligently colorize specific regions of crystal micrographs using Gemini AI. Upload an SEM image and randomly highlight crystals with custom colors.",
+  "requestFramePermissions": []
+}
